@@ -1,0 +1,9 @@
+Requirement_ID,Requirement,Test_Case_ID,Status
+REQ_001,User Login,TC_001,Pass
+REQ_002,Invalid Login Validation,TC_002,Pass
+REQ_003,Patient Registration,TC_003,Pass
+REQ_004,Doctor Management,TC_005,Pass
+REQ_005,Appointment Scheduling,TC_006,Pass
+REQ_006,Billing Generation,TC_007,Pass
+REQ_007,Patient Search,TC_008,Pass
+REQ_008,Logout Functionality,TC_009,Pass
