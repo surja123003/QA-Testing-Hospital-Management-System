@@ -1,0 +1,8 @@
+Scenario_ID,Module,Scenario_Description
+TS_001,Login,Verify login functionality
+TS_002,Patient Registration,Verify patient registration process
+TS_003,Doctor Management,Verify doctor creation and update
+TS_004,Appointment,Verify appointment scheduling
+TS_005,Billing,Verify bill generation process
+TS_006,Patient Search,Verify patient search functionality
+TS_007,Logout,Verify logout functionality
