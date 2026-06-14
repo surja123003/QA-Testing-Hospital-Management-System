@@ -1,0 +1,11 @@
+TC_ID,Module,Test_Case,Expected_Result,Status
+TC_001,Login,Login with valid credentials,User should login successfully,Pass
+TC_002,Login,Login with invalid credentials,Error message should appear,Pass
+TC_003,Patient Registration,Register new patient,Patient record should be created,Pass
+TC_004,Patient Registration,Register patient with blank fields,Validation message should appear,Pass
+TC_005,Doctor Management,Add new doctor,Doctor record should be saved,Pass
+TC_006,Appointment,Book appointment,Appointment should be scheduled,Pass
+TC_007,Billing,Generate bill,Bill should be generated successfully,Pass
+TC_008,Search Patient,Search patient by ID,Patient details should display,Pass
+TC_009,Logout,Logout functionality,User should logout successfully,Pass
+TC_010,Billing,Generate bill without patient record,System should show validation error,Fail
