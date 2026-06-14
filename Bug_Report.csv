@@ -1,0 +1,5 @@
+Bug_ID,Module,Summary,Severity,Priority,Status
+BUG_001,Billing,Bill generated without valid patient record,Critical,High,Open
+BUG_002,Appointment,Past date appointment allowed,Medium,Medium,Open
+BUG_003,Login,Password field accepts leading spaces,Low,Low,Open
+BUG_004,Patient Registration,Phone number validation missing,Medium,High,Fixed
